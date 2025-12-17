@@ -31,7 +31,7 @@
     "ra-data-json-server": "^4.5.2",
     "ra-input-rich-text": "^4.16.20",
     "react": "^18.3.1",
-    "react-admin": "^4.16.20",
+    "react-admin": "^5.13.4",
     "react-admin-color-picker": "^1.0.3",
     "react-dom": "^18.3.1",
     "react-dropzone": "^14.2.3",
